@@ -1,4 +1,5 @@
 checkpoints/
+models/
 outputs/
 dist/
 doclayout_yolo.egg-info/

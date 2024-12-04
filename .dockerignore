@@ -1,0 +1,5 @@
+# 排除数据集目录
+layout_data/
+
+# 排除模型目录
+models/
