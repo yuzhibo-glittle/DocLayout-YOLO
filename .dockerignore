@@ -3,3 +3,6 @@ layout_data/
 
 # 排除模型目录
 models/
+
+# 排除训练输出目录
+public_dataset/
